@@ -57,6 +57,11 @@ To embark on your virtual journey with the Milkybar World Map Passport UI, follo
 ### CSS Styling
 - The enchanting visual design is meticulously orchestrated in the `style.css` file. Every element is perfectly styled, capturing the Milkybar essence.
 
+## UI Dimensions
+
+- This UI is optimized for a dimension of 425px * 857px.
+- Responsive features are still under development and will be added in future updates.
+
 ## Usage
 
 1. **Open Camera Popup**: Click on the profile image to open the camera popup. Grant camera access when prompted.
