@@ -71,7 +71,7 @@ To embark on your virtual journey with the Milkybar World Map Passport UI, follo
 
 ## Author
 
-- [Your Name]
+- Kartikay Srivastava
 
 ## License
 
