@@ -46,6 +46,10 @@ To embark on your virtual journey with the Milkybar World Map Passport UI, follo
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the captivating functionalities and start personalizing your Milkybar passport.
 
+## Live Demo
+
+Explore the Milkybar World Map Passport UI live: [Live Demo](https://thenarain.github.io/Milkybar-world-map--Passport-UI/)
+
 ## Project Structure
 
 ### HTML Structure
